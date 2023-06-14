@@ -1,4 +1,4 @@
-import './App.css'
+import '../App.css'
 import Col from 'react-bootstrap/Col';
 
 
